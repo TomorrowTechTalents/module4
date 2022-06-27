@@ -1,0 +1,46 @@
+
+Z
+java:S18542"8Remove this useless assignment to local variable "file".(ËÉ§µşÿÿÿÿ8›ÿÏ¹š0
+`
+java:S1854.">Remove this useless assignment to local variable "offsetTime".(×ââ†şÿÿÿÿ8œÿÏ¹š0
+e
+java:S1854+"CRemove this useless assignment to local variable "offsetDateTime4".(½€Åşÿÿÿÿ8°üŸšš0
+e
+java:S1854*"CRemove this useless assignment to local variable "offsetDateTime3".(ÊÂˆùÿÿÿÿ8ÿÏ¹š0
+]
+java:S1854&";Remove this useless assignment to local variable "instant".(íò±Êşÿÿÿÿ8ŸÿÏ¹š0
+]
+java:S1854""ARemove this useless assignment to local variable "localDateTime".(‚Ã¥w8ŸÿÏ¹š0
+^
+java:S1854"ARemove this useless assignment to local variable "zonedDateTime".(ç©·î8 ÿÏ¹š0
+Z
+java:S1854"=Remove this useless assignment to local variable "localTime".(¢ıĞ¶8 ÿÏ¹š0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8¶üŸšš0
+]	java:S125"<This block of commented-out lines of code should be removed.(¶Ş¥øÿÿÿÿ8¸üŸšš0
+K
+java:S1481".Remove this unused "localTime" local variable.(¢ıĞ¶8©ÿÏ¹š0
+O
+java:S1481"2Remove this unused "zonedDateTime" local variable.(ç©·î8ºüŸšš0
+d
+java:S3986"BMake sure that week Year "Y" is expected here instead of Year "y".(Ù¢ãËşÿÿÿÿ8®ÿÏ¹š0
+X	java:S125"<This block of commented-out lines of code should be removed.(¦æÊ…8ú»à¹š0
+N
+java:S1481""2Remove this unused "localDateTime" local variable.(‚Ã¥w8²ÿÏ¹š0
+W	java:S125$"<This block of commented-out lines of code should be removed.(Ûˆ—~8ÄÒİ¹š0
+N
+java:S1481&",Remove this unused "instant" local variable.(íò±Êşÿÿÿÿ8µÿÏ¹š0
+V
+java:S1481*"4Remove this unused "offsetDateTime3" local variable.(ÊÂˆùÿÿÿÿ8ºÿÏ¹š0
+V
+java:S1481+"4Remove this unused "offsetDateTime4" local variable.(½€Åşÿÿÿÿ8ÃüŸšš0
+Q
+java:S1481."/Remove this unused "offsetTime" local variable.(×ââ†şÿÿÿÿ8ÀÿÏ¹š0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(±¤ª¹8ÂÿÏ¹š0
+c
+java:S10752"ARefactor your code to get this URI from a customizable parameter.(ËÉ§µşÿÿÿÿ8ÜÿÏ¹š0
+K
+java:S14812")Remove this unused "file" local variable.(ËÉ§µşÿÿÿÿ8Êòã¹š0
+]	java:S1253"<This block of commented-out lines of code should be removed.(àúº²ÿÿÿÿÿ8ßÿÏ¹š0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÕôÚıÿÿÿÿ8áÿÏ¹š0
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8­ó¡šš0

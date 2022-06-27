@@ -1,0 +1,16 @@
+
+}
+java:S1488@"gImmediately return this expression instead of assigning it to the temporary variable "totalByCurrency".(øÓ’Ñ
+„
+java:S1488^"nImmediately return this expression instead of assigning it to the temporary variable "formattedTotalByCrypto".(¹æ¯¥
+•
+java:S1488j"sImmediately return this expression instead of assigning it to the temporary variable "totalByCryptoDetailedByDate".(£¡Ìëúÿÿÿÿ8¿™¢¢š0
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‰è¯Èýÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(î…Žîøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(üÆ‚ì
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ‹Áæ
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(äñô¦ûÿÿÿÿ8´¥î¡š0
+\
+java:S1612a":Replace this lambda with method reference 'Entry::getKey'.(Ç ¼àûÿÿÿÿ8é™¢¢š0
+W
+java:S1612m";Replace this lambda with method reference 'Order::getDate'.(ÄŒó68ë™¢¢š0
