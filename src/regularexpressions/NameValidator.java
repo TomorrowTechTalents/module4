@@ -10,7 +10,10 @@ public class NameValidator {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
 
-        boolean match = Pattern.matches("([a-zA-Z]{2,99}\\s){1,99}[a-zA-Z]{2,99}", name);
+        boolean match = Pattern.matches("(?x)" +                        // Enables comments.
+                                              "([a-zA-Z]{2,99}\\s){1,99} " +  // Searches for word followed by space.
+                                              "[a-zA-Z]{2,99}                 # Searches for the last word.",
+                                        name);
 
         System.out.println(match ? "nome validado" : "não é possível validar o nome");
     }
